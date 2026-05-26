@@ -183,7 +183,6 @@ All simulations were performed using:
 
 - LTspice
 - TSMC 180nm CMOS Models
-- LaTeX (report generation)
 
 
 ---
